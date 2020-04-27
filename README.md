@@ -1,2 +1,2 @@
-# w207_mnist_classification
-Project 1 of w207
+# mnist_classification
+Explore MNIST dataset and try few classification methods
